@@ -31,7 +31,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁
+- ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- ՏTᑌᗪᗴᑎT
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -109,5 +109,5 @@
 
 <a 
 href="https://github.com/iamdarkness404/lite"><img title="lite" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=lite&theme=gotham"></a>
-<a href="https://github.com/iamdarkness404/free"><img title="free" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarness404&repo=free&theme=gotham"></a>
-<a href="https://github.com/iamdarkness404/gf-hack"><img title="gf-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarness404&repo=gf-hack&theme=gotham"></a>
+<a href="https://github.com/iamdarkness404/free"><img title="free" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=free&theme=gotham"></a>
+<a href="https://github.com/iamdarkness404/gf-hack"><img title="gf-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=gf-hack&theme=gotham"></a>
