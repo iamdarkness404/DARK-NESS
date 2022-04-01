@@ -102,17 +102,9 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=iamdarkness404&theme=react-dark&area=true&hide_border=true)](https://github.com/iamdarkness404/github-readme-activity-graph)
+[![ᗪᗩᖇK ᑎᗴՏՏ's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=iamdarkness404&theme=react-dark&area=true&hide_border=true)](https://github.com/iamdarkness404/github-readme-activity-graph)
 
 <a 
 href="https://github.com/iamdarkness404/lite"><img title="lite" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=lite&theme=gotham"></a>
 <a href="https://github.com/iamdarkness404/free"><img title="free" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=free&theme=gotham"></a>
-<a href="https://github.com/iamdarkness404/gf-hack"><img title="gf-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=gf-hack&theme=gotham"></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT'S+A+BRAND+DARK+NESS+)](https://git.io/typing-svg) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdarkness404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="iamdarkness404" /> </p>
-</i></b></h3>
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; ᗯᗴᒪᑕOᗰᗴ ᗰY ᑭᖇOᖴIᒪᗴ&nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<a href="https://github.com/iamdarkness404/gf-hack"><img title="gf-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=gf-hack&theme=gotham"></a>
