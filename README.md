@@ -119,4 +119,4 @@
 href="https://github.com/iamdarkness404/lite"><img title="lite" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=lite&theme=gotham"></a>
 <a href="https://github.com/iamdarkness404/free"><img title="free" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=free&theme=gotham"></a>
 <a href="https://github.com/iamdarkness404/gf-hack"><img title="gf-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=gf-hack&theme=gotham"></a>
-<a href="https://github.com/iamdarkness404/2k9"><img title="2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=gf-hack&theme=gotham"></a>
+<a href="https://github.com/iamdarkness404/2k9"><img title="2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=2k9&theme=gotham"></a>
