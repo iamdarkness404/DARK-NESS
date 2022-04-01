@@ -1,3 +1,15 @@
+<h1 align="center"> Hello Word :) </h1>
+<p align="center">
+•●•
+</p>
+
+<p align="center">
+<img src="https://giffiles.alphacoders.com/120/120248.gif">
+</p>
+<p align="center">
+<i> <b> FUCK 🖕 LOL ! </b> </i>
+</p
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT'S+A+BRAND+DARK+NESS+)](https://git.io/typing-svg) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdarkness404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="iamdarkness404" /> </p>
 </i></b></h3>
