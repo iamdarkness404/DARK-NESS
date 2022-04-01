@@ -9,7 +9,6 @@
 <p align="center">
 <i> <b> FUCK 🖕 LOL ! </b> </i>
 </p
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT'S+A+BRAND+DARK+NESS+)](https://git.io/typing-svg) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdarkness404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="iamdarkness404" /> </p>
 </i></b></h3>
@@ -120,3 +119,4 @@
 href="https://github.com/iamdarkness404/lite"><img title="lite" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=lite&theme=gotham"></a>
 <a href="https://github.com/iamdarkness404/free"><img title="free" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=free&theme=gotham"></a>
 <a href="https://github.com/iamdarkness404/gf-hack"><img title="gf-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=gf-hack&theme=gotham"></a>
+<a href="https://github.com/iamdarkness404/2k9"><img title="2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdarkness404&repo=gf-hack&theme=gotham"></a>
